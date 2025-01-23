@@ -1,3 +1,21 @@
+body {text-align:center;
+    background-color: #dfe1d2;}
 h1 {color:green;
-    text-align: center}
-img {margin: 10px; border: 5px}
+    font-family: "Segoe Script"; margin: 3px}
+.first-paragraph {border: 3px solid green;
+    padding: 5px; background-color:  #c8e2c8}
+.second-paragraph {border: 3px solid crimson;
+    padding: 5px; background-color:  #fbdfdf}
+img {margin: 7px; border: 5px}
+a:link {color: green;
+    background-color: transparent;
+    text-decoration: none;}
+a:visited {color: darkgreen;
+    background-color: transparent;
+    text-decoration: none;}
+a:hover {color: darkred;
+    background-color: transparent;
+    text-decoration: underline;}
+a:active {color: red;
+    background-color: transparent;
+    text-decoration: underline;}
